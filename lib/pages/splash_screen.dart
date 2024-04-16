@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
           ),
           Center(
             child: Text(
-              'DevManch',
+              'Prabhukripa',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 30,
