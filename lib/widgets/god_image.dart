@@ -20,23 +20,23 @@ class GodImage extends StatelessWidget {
           Column(
             children: [
               ghantis(),
-              SizedBox(height: MediaQuery.of(context).size.height * 0.03),
+              SizedBox(height: MediaQuery.of(context).size.height * 0.02),
               const IconRow(
                   firstLocation: 'assets/images/homepage/flowers.png',
                   secondLocation: 'assets/images/homepage/shunk.png'),
-              SizedBox(height: MediaQuery.of(context).size.height * 0.03),
+              SizedBox(height: MediaQuery.of(context).size.height * 0.02),
               const IconRow(
                   firstLocation: 'assets/images/homepage/oilbottle.png',
                   secondLocation: 'assets/images/homepage/calendar.png'),
-              SizedBox(height: MediaQuery.of(context).size.height * 0.03),
+              SizedBox(height: MediaQuery.of(context).size.height * 0.02),
               const IconRow(
                   firstLocation: 'assets/images/homepage/agarbatti.png',
                   secondLocation: 'assets/images/homepage/praying.png'),
-              SizedBox(height: MediaQuery.of(context).size.height * 0.03),
+              SizedBox(height: MediaQuery.of(context).size.height * 0.02),
               const IconRow(
                   firstLocation: 'assets/images/homepage/diya.png',
                   secondLocation: 'assets/images/homepage/youtube.png'),
-              SizedBox(height: MediaQuery.of(context).size.height * 0.03),
+              SizedBox(height: MediaQuery.of(context).size.height * 0.02),
               CircleAvatar(
                 radius: MediaQuery.of(context).size.width * 0.1,
                 backgroundColor: Colors.white,
